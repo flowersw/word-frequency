@@ -50,7 +50,7 @@ def word_freq():
     for i in range(0,20):
         print(sorted_dict[i])
 
-    #Wasn't quite able to make it "pretty" output, but it works
+    #Wasn't quite able to make it "pretty" output, but it still works
 
 word_freq()
 
